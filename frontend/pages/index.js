@@ -11,7 +11,7 @@ export default function Home() {
         <MainView />
       ) : (
         <div className='loginContainer'>
-          <div className='loginTitle'>Log in to TikTok</div>
+          <div className='loginTitle'>Log in to FemVerse</div>
           <div className='loginSubTitle'>
             Manage your account, check notifications, comment on videos, and
             more
